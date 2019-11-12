@@ -1,0 +1,34 @@
+.all {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+width: 960px;
+font-size: 18px;
+text-align: center;
+}
+
+.beef {
+    background: #ebebeb;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+
+}
+
+.pork {
+    color: #777;
+    background: #ebebeb;
+}
+
+
+section {
+    width: 495 px;
+}
+
+
+aside {
+    float: right;
+    width: 495px;
+}
