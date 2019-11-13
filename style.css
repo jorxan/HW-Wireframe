@@ -4,8 +4,26 @@
     background: #777;
 width: 960px;
 font-size: 18px;
+margin: 20px;
 text-align: center;
 }
+
+header {
+    width: 1000px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid #777;
+    margin: 20px #777;
+}
+
+nav {
+    width: 1000px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid #777;
+}
+
+
 
 .beef {
     background: #ebebeb;
